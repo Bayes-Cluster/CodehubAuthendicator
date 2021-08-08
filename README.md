@@ -2,4 +2,4 @@
 
 ## Reference
 
-[sshauthenticator](https://github.com/kucherenko/sshauthenticator/)
+[sshauthenticator](https://github.com/andreas-h/sshauthenticator)
