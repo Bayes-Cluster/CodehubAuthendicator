@@ -4,7 +4,7 @@ from paramiko import SSHClient, AuthenticationException, AutoAddPolicy
 from traitlets import Int, Unicode
 
 
-class CodehubAuthendicator(Authenticator):
+class CodehubAutheticator(Authenticator):
     server_address = Unicode(
         config=True,
         help='Address of LDAP server'
