@@ -1,1 +1,1 @@
-# CodehubAuthendicator
+# Codehub-Authendicator
